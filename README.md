@@ -21,4 +21,4 @@ The name of the sript starts with "0-a" for a reason: That is so the script will
 ---
 ### ignore tags
 
-# how to copy images image windows spotlight lock screen where find download folder feature
+# how to copy images image windows spotlight lock screen where find download folder feature save
